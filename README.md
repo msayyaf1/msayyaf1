@@ -2,7 +2,7 @@
 
 ## About Me
 - 🧑‍💻 Senior Frontend Engineer at SynerAI
-- 🔧 Working with React.js, Next.js, Node.js, and more
+- 🔧 Working with Next.js, Node.js, and more
 - 💬 Ask me about web dev and tech in general
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/msayyaf) | Email: m.sayyaf01@gmail.com
 - 📍 Currently in 🇦🇪 UAE
